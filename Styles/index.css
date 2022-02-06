@@ -1,0 +1,218 @@
+header {
+    display: inline-block;
+}
+.Medi {
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 48px;
+    /* or 160% */
+    letter-spacing: -0.02em;
+    color: #0A1B32;
+    margin-top: 37px;
+    margin-left: 80px;
+}
+
+.Dot {
+    color: #824FF1
+}
+
+.Home {
+    position: absolute;
+    width: 45px;
+    height: 24px;
+    left: 272.76px;
+    top: 48px;
+
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+
+    text-align: center;
+}   
+
+.About {
+    position: absolute;
+    width: 44px;
+    height: 24px;
+    left: 355.76px;
+    top: 48px;
+
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+
+    text-align: center;
+} 
+
+.Blog {
+    position: absolute;
+    width: 33px;
+    height: 24px;
+    left: 439.76px;
+    top: 48px;
+
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+
+    text-align: center;
+}
+
+.Contact {
+    position: absolute;
+    width: 58px;
+    height: 24px;
+    left: 510.76px;
+    top: 48px;
+
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+
+    text-align: center;
+    letter-spacing: 0.02em;
+
+}
+
+.Sign-in {
+    
+    position: absolute;
+    width: 51px;
+    height: 24px;
+    left: 1320.96px;
+    top: 48px;
+
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+
+    text-align: center;
+
+}
+
+.Sign-up-button {
+    position: absolute;
+    width: 120px;
+    height: 59.65px;
+    left: 1412.26px;
+    top: 30px;
+
+    background: #4F56F1;
+    border-radius: 6px;
+    border: none;
+
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+
+    text-align: center;
+    color: #FFFFFF;
+
+}
+
+.Sign-up-button:hover{
+    background-color: rgb(90, 218, 96);
+    color: #FFFFFF;
+}
+
+section {
+    display: inline-block;
+}
+
+.main-title {
+
+
+    width: 600px;
+    height: 152px;
+    margin-left:  200px;
+    margin-top:    208px;
+
+    font-family: 'Ramaraja', serif;
+    font-weight: normal;
+    font-size: 72px;
+    line-height: 76px;
+    /* or 106% */
+
+    letter-spacing: 0.02em;
+
+    color: #1B0A42;
+}
+
+
+
+.main-info {
+   
+    width: 538px;
+    height: 96px;
+    margin-left: 200px;
+    top: 442.71px;
+    margin-top: 10px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 32px;
+    letter-spacing: 0.02em;
+    color: #9A9A9A;
+}
+
+
+
+
+
+.Learn-button {
+    
+    width: 152px;
+    height: 63.82px;
+    margin-left:  200px;
+    margin-top: 90 px;
+    
+    background: #4F56F1;
+    border-radius: 6px;
+    border: none;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 32px;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+}
+.Learn-button:hover{
+    background-color: rgb(90, 218, 96);
+    color: #FFFFFF;
+}
+
+
+.Yoga-Lady{
+    position: absolute;
+    width: 653px;
+    height: 604px;
+    left: 853px;
+    top: 186px;
+}
+
+section {
+    display: inline-block;
+}
